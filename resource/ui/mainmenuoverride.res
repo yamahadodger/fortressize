@@ -527,6 +527,7 @@ Resource/UI/MainMenuOverride.res
 		pinCorner 3
 		visible 1
 		enabled 1
+		labelText""
 		tabPosition 0
 		navUp Notifications_Panel
 		navLeft SettingsButton
@@ -593,6 +594,7 @@ Resource/UI/MainMenuOverride.res
 		pinCorner 3
 		visible 1
 		enabled 1
+		labelText""
 		tabPosition 0
 		navUp Notifications_Panel
 		navLeft SettingsButton
