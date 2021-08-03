@@ -87,11 +87,11 @@ Resource/UI/MainMenuOverride.res
 			flash_maxscale 4
 			flash_lifelength_min .1
 			flash_lifelength_max .2
-			curtain_anim_duration 4.0
+			curtain_anim_duration 4
 			curtain_open_time 2.8
-			flash_start_time 4.0
-			initial_freakout_duration 15.0
-			clap_sound_duration 10.0
+			flash_start_time 4
+			initial_freakout_duration 15
+			clap_sound_duration 10
 			CameraFlashSettings
 			{
 				visible 1
