@@ -527,7 +527,6 @@ Resource/UI/MainMenuOverride.res
 		pinCorner 3
 		visible 1
 		enabled 1
-		labelText""
 		tabPosition 0
 		navUp Notifications_Panel
 		navLeft SettingsButton
@@ -547,6 +546,7 @@ Resource/UI/MainMenuOverride.res
 			textinsetx 25
 			use_proportional_insets 1
 			font HudFontSmallBold
+			labelText""
 			command watch_stream
 			textAlignment west
 			dulltext 0
@@ -594,7 +594,6 @@ Resource/UI/MainMenuOverride.res
 		pinCorner 3
 		visible 1
 		enabled 1
-		labelText""
 		tabPosition 0
 		navUp Notifications_Panel
 		navLeft SettingsButton
@@ -614,6 +613,7 @@ Resource/UI/MainMenuOverride.res
 			textinsetx 25
 			use_proportional_insets 1
 			font HudFontSmallBold
+			labelText""
 			command questlog
 			textAlignment west
 			dulltext 0
@@ -680,6 +680,7 @@ Resource/UI/MainMenuOverride.res
 			visible 1
 			enabled 1
 			tabPosition 0
+			labelText""
 			font HudFontSmallestBold
 			textAlignment center
 			dulltext 0
@@ -768,6 +769,7 @@ Resource/UI/MainMenuOverride.res
 			visible 1
 			enabled 1
 			tabPosition 0
+			labelText""
 			font HudFontSmallBold
 			textAlignment center
 			dulltext 0
@@ -978,6 +980,7 @@ Resource/UI/MainMenuOverride.res
 			visible 0
 			enabled 1
 			tabPosition 0
+			labelText""
 			font HudFontSmallBold
 			textAlignment center
 			dulltext 0
@@ -1021,6 +1024,7 @@ Resource/UI/MainMenuOverride.res
 			visible 0
 			enabled 1
 			tabPosition 0
+			labelText""
 			font HudFontSmallBold
 			textAlignment center
 			dulltext 0
@@ -1083,6 +1087,7 @@ Resource/UI/MainMenuOverride.res
 			visible 1
 			enabled 1
 			tabPosition 0
+			labelText""
 			font HudFontSmallBold
 			textAlignment center
 			dulltext 0
