@@ -636,7 +636,7 @@ Resource/UI/MatchMakingDashboard.res
 		{
 			ControlName CExImageButton
 			fieldName ResumeButton
-			xpos rs1-31-131
+			xpos rs1-162
 			ypos 0
 			zpos 100
 			wide 90
