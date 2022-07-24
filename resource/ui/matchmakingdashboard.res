@@ -664,8 +664,8 @@ Resource/UI/MatchMakingDashboard.res
 			sound_released UI/buttonclickrelease.wav
 			defaultFgColor_override TanLight
 			armedFgColor_override TanLight
-			image_drawcolor 235 226 202 255
-			image_armedcolor 235 226 202 255
+			image_drawcolor"235 226 202 255"
+			image_armedcolor"235 226 202 255"
 			SubImage
 			{
 				ControlName ImagePanel
